@@ -1,0 +1,8 @@
+{
+  "name": "b7-market",
+  "description": "B7 fixture marketplace — single root-plugin row for update-scope checks.",
+  "owner": {"name": "ElasticFlow acceptance"},
+  "plugins": [
+    {"name": "b7-scope-plugin", "description": "The repository's own root plugin.", "source": "./"}
+  ]
+}
