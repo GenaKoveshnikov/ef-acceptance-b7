@@ -1,0 +1,6 @@
+{
+  "name": "b7-scope-plugin",
+  "version": "1.0.0",
+  "author": "ElasticFlow acceptance",
+  "description": "B7 scope-isolation fixture — root plugin, one skill, README outside skills/manifests."
+}
