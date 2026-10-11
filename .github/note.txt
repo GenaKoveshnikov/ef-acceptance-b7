@@ -1,0 +1,1 @@
+# ci placeholder — outside plugin content entirely
