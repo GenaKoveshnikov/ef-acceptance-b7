@@ -1,0 +1,15 @@
+{
+  "name": "codex-only",
+  "version": "1.0.0",
+  "description": "Codex-manifest-only fixture plugin — IN-1 direct-read leg for B14/CL-4.",
+  "skills": [
+    "./skills/codex-manifest-skill",
+    "./codex-loose-skill"
+  ],
+  "mcpServers": {
+    "b14-codex-manifest-srv": {
+      "type": "http",
+      "url": "https://fixture.example.invalid/codex-manifest"
+    }
+  }
+}

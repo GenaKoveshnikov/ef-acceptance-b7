@@ -1,0 +1,6 @@
+{
+  "b14-codex-dotmcp-srv": {
+    "type": "http",
+    "url": "https://fixture.example.invalid/codex-dotmcp"
+  }
+}
