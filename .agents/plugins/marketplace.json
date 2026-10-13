@@ -1,0 +1,9 @@
+{
+  "name": "b7-codex-market",
+  "description": "CL-5 fixture — Codex marketplace format alongside the Claude marketplace in one repository.",
+  "plugins": [
+    { "name": "b7-scope-plugin", "description": "Same-named row — must merge with the Claude row, not duplicate.", "source": {"source": "local", "path": "./"} },
+    { "name": "b7-codex-local-row", "description": "CL-5 codex-only local row over codex-only/.", "source": "./codex-only" },
+    { "name": "b7-remote-row", "description": "CL-5 non-local row — lives elsewhere.", "source": {"source": "url", "url": "https://github.com/octocat/Hello-World"} }
+  ]
+}
